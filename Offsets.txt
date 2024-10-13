@@ -1,3 +1,9 @@
+GWorld -> 0x6232000
+GObjects -> 0x612bab8
+GNames -> 0x61274e0
+ProcessEvent -> 0x40
+AppendString -> 0x1fff7a0
+
 ACharacter::Mesh -> 0x280
 AActor::RootComponent -> 0x130
 AActor::CustomTimeDilation -> 0x98
